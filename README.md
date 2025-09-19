@@ -1,5 +1,3 @@
-# Repositorio para practicar git pull
-Repositorio para practicar el comando git pull
 
 # Proyecto "Retro" - Desafío Animaciones en CSS
 
